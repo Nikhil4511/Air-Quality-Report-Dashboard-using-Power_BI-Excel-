@@ -66,3 +66,17 @@ Data Type: Daily air pollution measurements
 Purpose: Educational and analytical use only
 <img width="1193" height="666" alt="Screenshot" src="https://github.com/user-attachments/assets/2ad576c2-e427-4f97-b6d5-a861c8308bd3" />
 
+Learning Outcomes
+
+-Practical understanding of air quality indicators
+
+-Hands-on experience with Power BI dashboards
+
+-Improved skills in data visualization & storytelling
+
+-Experience working with real-world environmental data
+
+🏁 Conclusion
+
+This project demonstrates how environmental data can be transformed into meaningful visual insights using business intelligence tools.
+It is ideal for data analytics portfolios, environmental studies, and BI-focused roles.
