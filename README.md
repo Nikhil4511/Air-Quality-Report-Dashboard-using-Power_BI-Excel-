@@ -1,4 +1,5 @@
 🌫️ Air Quality Report Dashboard
+
 📌 Project Overview
 
 The Air Quality Report Dashboard is a data visualization project that analyzes air pollution levels across major Indian cities.
@@ -6,7 +7,9 @@ It provides clear insights into key air pollutants such as SO₂, CO, PM2.5, and
 
 The dashboard combines traditional environmental indicators with modern BI visualization techniques to support awareness and data-driven decision-making.
 
+
 🎯 Project Objectives
+
 
 Analyze air quality levels across Indian cities
 
@@ -18,7 +21,9 @@ Visualize pollutant averages using interactive dashboards
 
 Present geographical pollution distribution on a map
 
+
 🧰 Tech Stack
+
 
 Power BI – Data modeling & dashboard creation
 
@@ -26,7 +31,9 @@ Python – Data preprocessing (if required)
 
 MS Excel / CSV – Data inspection and formatting
 
+
 📊 Key Metrics & Insights
+
 
 Average SO₂ Level
 
@@ -44,7 +51,9 @@ City-wise AQI Distribution (Map View)
 
 AQI Trend Analysis (Year-wise)
 
+
 🗂️ Dataset Information
+
 
 Source: Open air quality dataset (Kaggle)
 
