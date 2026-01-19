@@ -1,6 +1,6 @@
-🌫️ Air Quality Report Dashboard
+## 🌫️ Air Quality Report Dashboard
 
-📌 Project Overview
+## 📌 Project Overview
 
 The Air Quality Report Dashboard is a data visualization project that analyzes air pollution levels across major Indian cities.
 It provides clear insights into key air pollutants such as SO₂, CO, PM2.5, and NO, helping users understand pollution intensity, city-wise comparison, and long-term AQI trends.
@@ -8,75 +8,77 @@ It provides clear insights into key air pollutants such as SO₂, CO, PM2.5, and
 The dashboard combines traditional environmental indicators with modern BI visualization techniques to support awareness and data-driven decision-making.
 
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 
-Analyze air quality levels across Indian cities
+- Analyze air quality levels across Indian cities
 
-Compare most polluted and least polluted cities
+- Compare most polluted and least polluted cities
 
-Study trends in Air Quality Index (AQI) over time
+- Study trends in Air Quality Index (AQI) over time
 
-Visualize pollutant averages using interactive dashboards
+- Visualize pollutant averages using interactive dashboards
 
-Present geographical pollution distribution on a map
-
-
-🧰 Tech Stack
+- Present geographical pollution distribution on a map
 
 
-Power BI – Data modeling & dashboard creation
-
-Python – Data preprocessing (if required)
-
-MS Excel / CSV – Data inspection and formatting
+## 🧰 Tech Stack
 
 
-📊 Key Metrics & Insights
+- Power BI – Data modeling & dashboard creation
+
+- Python – Data preprocessing (if required)
+
+- MS Excel / CSV – Data inspection and formatting
 
 
-Average SO₂ Level
-
-Average CO Level
-
-Average PM2.5 Level
-
-Average NO Level
-
-Top 3 Polluted Cities
-
-Least 3 Polluted Cities
-
-City-wise AQI Distribution (Map View)
-
-AQI Trend Analysis (Year-wise)
+## 📊 Key Metrics & Insights
 
 
-🗂️ Dataset Information
+- Average SO₂ Level
+
+- Average CO Level
+
+- Average PM2.5 Level
+
+- Average NO Level
+
+- Top 3 Polluted Cities
+
+- Least 3 Polluted Cities
+
+- City-wise AQI Distribution (Map View)
+
+- AQI Trend Analysis (Year-wise)
 
 
-Source: Open air quality dataset (Kaggle)
+## 🗂️ Dataset Information
 
-File Used: city_day.csv
 
-Region: India
+- Source: Open air quality dataset (Kaggle)
 
-Data Type: Daily air pollution measurements
+- File Used: city_day.csv
 
-Purpose: Educational and analytical use only
+- Region: India
+
+- Data Type: Daily air pollution measurements
+
+- Purpose: Educational and analytical use only
+
+## Screenshot
 <img width="1193" height="666" alt="Screenshot" src="https://github.com/user-attachments/assets/2ad576c2-e427-4f97-b6d5-a861c8308bd3" />
 
-Learning Outcomes
+## Learning Outcomes
 
--Practical understanding of air quality indicators
+- Practical understanding of air quality indicators
 
--Hands-on experience with Power BI dashboards
+- Hands-on experience with Power BI dashboards
 
--Improved skills in data visualization & storytelling
+- Improved skills in data visualization & storytelling
 
 -Experience working with real-world environmental data
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 This project demonstrates how environmental data can be transformed into meaningful visual insights using business intelligence tools.
 It is ideal for data analytics portfolios, environmental studies, and BI-focused roles.
